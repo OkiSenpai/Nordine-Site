@@ -1,0 +1,126 @@
+body{  /* body = page entière du corp */
+margin: 0;   /* marge de toute la page "body" */
+background-color: bisque;   /* couleur de fond du body */
+font-family: Arial, Helvetica, sans-serif;
+}
+
+a { /* a "sont les éléments de ma navbar" */    
+    text-decoration: none; /* sert à ajouter, modifier ou supprimer des décorations */ 
+    color: black; 
+}
+
+.navBar__boxLink{
+
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+list-style-type: none ;
+gap: 0.5rem;
+font-size: 1.8rem;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.navBar__img{
+
+width: 100%;
+height: 89.85vh;
+    
+}
+.photocf2d {        
+position: absolute;
+top: 75%;
+right: 85%;
+width: 6%;
+}
+
+/* Container qui contient l'image et la video */
+.container {
+position: relative;
+display: -inline-box;
+}
+
+
+/* Video superposée */
+.video-overlay {
+    
+top: 0%;
+left: 100px;
+width: 450px;
+height: 910px;
+object-fit: cover; /* Remplir l'écran sans déformer */
+    
+}
+
+.blocParent {
+display: flex;
+font-size: 22px;
+position: absolute;
+top: 2%;
+left: 25%;
+
+margin-right: 0%;
+}
+
+h3 {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloc2 {
+text-align: center;
+margin-left: 5%;
+}   
+
+.commun {
+
+width: 60%;
+}
+.bloc3 {
+position: absolute;
+top: 100%;
+width: 80%;
+margin-right: 5%;
+}
+
+.paragrapheBloc2 {
+text-align: left;
+margin-right: 5%;
+margin-left: 5%;
+    
+}
+h4 {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* footer  */
+.footer {
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;    
+font-size: 20px;
+list-style-type: none;
+font-style: italic;
+border-top: 4px solid black;
+font-family: Arial, Helvetica, sans-serif;
+        
+}
+    
+.footer__services {
+border: 1px solid red;
+}
+
+    
+    
+        
+        
+
+
+
+
+
+
+
+  

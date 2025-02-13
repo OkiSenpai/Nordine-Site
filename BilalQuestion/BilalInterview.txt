@@ -1,0 +1,51 @@
+Synthèse des Questions et Réponses
+
+
+Question 1 : Qui êtes-vous ?
+
+Je m'appelle Bilal Khaldi, administrateur de bases de données côté infrastructure et système depuis 4 ans.
+Je possède des compétences dans le cloud et en administration système en général.
+Je travaille sur des serveurs Linux Red Hat Enterprise (versions 7 à 9), des bases de données PostgreSQL (version 13 à 16) et des bases NoSQL.
+
+
+Question 2 : Quelles sont vos fonctions occupées ?
+
+
+Je consacre 70 % de mon temps à l'administration de bases de données, 15 % à l'infrastructure as code pour automatiser via une interface utilisateur et
+des commandes les déploiements de serveurs contenant des bases de données, et 15 % à l'architecture cloud, notamment la conteneurisation avec Kubernetes et OpenShift.
+
+
+Question 3 : Quels sont les éléments de votre parcours professionnel ?
+
+
+J'ai effectué des études secondaires générales avec une option en mathématiques, suivies d'un bachelier en informatique à l'école supérieure d'informatique (ESI) de Bruxelles.
+
+
+Question 4 : Quelles difficultés avez-vous rencontrées ?
+
+
+J'ai eu des difficultés à comprendre les concepts avancés en informatique, notamment l'utilisation des ressources mémoire en C++, ainsi que l'administration de systèmes Linux au début de ma carrière.
+J'ai également rencontré des défis liés à l'utilisation de certains design patterns et de gestionnaires de dépôts comme les mono-repositories.
+
+
+Question 5 : Quels conseils donneriez-vous pour exercer ce métier ?
+
+Je recommande de rester constamment à jour en suivant les tendances technologiques sur les réseaux sociaux ou via des conférences. 
+Il est essentiel de choisir un domaine qui vous passionne, que ce soit le développement full-stack, l'administration système ou l'infrastructure, pour trouver un équilibre entre passion et travail.
+
+Question 6 : Coordonnées de l’entreprise ?
+
+Je travaille pour l'ONSS (Office National de Sécurité Sociale), où je gère le cloud extranet de l'ONSS pour le gouvernement belge, en fournissant les bases de données et les serveurs nécessaires.
+
+Question 7 : Quelle est l'activité principale de votre poste ?
+
+L'administration de bases de données reste l'activité principale de mon poste.
+
+Question 8 : Quel est le nombre total de personnel ?
+
+Dans le département infrastructures et systèmes, nous sommes environ 170 personnes, réparties au sein de l'organisme de sécurité sociale.
+
+Question 9 : Quel est l'organigramme de votre entreprise ?
+
+Je suis DBA (Database Administrator) et fais partie d'une équipe dirigée par un chef d'équipe dédiée aux bases de données.
+ Ce chef rapporte à un responsable middleware, qui lui-même dépend du Service Chain Manager, chef du département infrastructures et systèmes.

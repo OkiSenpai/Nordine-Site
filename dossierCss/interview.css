@@ -1,0 +1,86 @@
+body{  /* body = page entière du corp */
+margin: 0;  /* marge de toute la page "body" */
+background-color: bisque;  /* couleur de fond du body */
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.image-container{
+    position: relative;
+    width: 500px;
+    height: auto;
+    
+}
+.image-reduite{
+    position: absolute; /* Permet de superposer cette image */
+    right: 830px; /* Distance par rapport à la droite du container */
+    width: 350px; /* Taille reduite pour l'image */
+    height: auto; /* Garde les proportions */
+    border: 2px solid gray; /* Exemple de style(encadrement) */
+    bottom: -350px;
+    
+}
+a { /* a "sont les éléments de ma navbar" */    
+    text-decoration: none; /* sert à ajouter, modifier ou supprimer des décorations */ 
+    color: black; 
+}
+
+.navBar__boxLink{  /* navBar */
+
+display: flex;
+flex-direction: row;
+justify-content: space-around;  /* est utilisée pour aligner et distribuer des éléments à l'intérieur d'un conteneur flexible */
+list-style-type: none ;
+gap: 0.5rem; /* est utilisée pour définir l'espace entre les éléments d'un conteneur */
+font-size: 1.8rem;  /*  est utilisée pour définir la taille de la police d'un texte */
+font-style: normal; /*  est utilisée pour définir le style d'écriture d'un texte */
+font-family: Arial, Helvetica, sans-serif; /* style d'écriture */
+
+}
+
+.navBar__img{
+width: 100%; /* largeur de l'image "person-fr.computer" */
+height: 89.85vh; /* hauteur de l'image */
+}
+
+.photocf2d { /* Logo du cf2m */       
+position: absolute;
+top: 75%;
+right: 87%;
+width: 6%;
+
+}
+
+.controleCaractere {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-left: 80PX;
+    margin-right: 80PX;
+}
+
+/* footer  */
+.footer {
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;    
+font-size: 20px;
+list-style-type: none;
+font-style: italic;
+border-top: 3px solid black;
+font-family: Arial, Helvetica, sans-serif;
+        
+}
+h4 {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.footer__services {
+border: 1px solid red;
+}
+
+    
+    
+    
+        
+    
